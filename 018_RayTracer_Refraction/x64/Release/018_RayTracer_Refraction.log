@@ -1,0 +1,15 @@
+﻿  main.cpp
+E:\GitHub\assessment-2-maths-library-and-retro-arcade-game-JackKellett02\018_RayTracer_Refraction\include\Scene.h(23,24): warning C4114: same type qualifier used more than once
+E:\GitHub\assessment-2-maths-library-and-retro-arcade-game-JackKellett02\018_RayTracer_Refraction\source\main.cpp(109,22): warning C4244: 'argument': conversion from 'time_t' to 'const int', possible loss of data
+  Generating code
+  1 of 401 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+libMath.lib(Vector4.obj) : warning LNK4099: PDB '004__Static_Library.pdb' was not found with 'libMath.lib(Vector4.obj)' or at 'E:\GitHub\assessment-2-maths-library-and-retro-arcade-game-JackKellett02\x64\Release\004__Static_Library.pdb'; linking object as if no debug info
+libMath.lib(Vector3.obj) : warning LNK4099: PDB '004__Static_Library.pdb' was not found with 'libMath.lib(Vector3.obj)' or at 'E:\GitHub\assessment-2-maths-library-and-retro-arcade-game-JackKellett02\x64\Release\004__Static_Library.pdb'; linking object as if no debug info
+libMath.lib(Matrix4.obj) : warning LNK4099: PDB '004__Static_Library.pdb' was not found with 'libMath.lib(Matrix4.obj)' or at 'E:\GitHub\assessment-2-maths-library-and-retro-arcade-game-JackKellett02\x64\Release\004__Static_Library.pdb'; linking object as if no debug info
+libMath.lib(Ray.obj) : warning LNK4099: PDB '004__Static_Library.pdb' was not found with 'libMath.lib(Ray.obj)' or at 'E:\GitHub\assessment-2-maths-library-and-retro-arcade-game-JackKellett02\x64\Release\004__Static_Library.pdb'; linking object as if no debug info
+libMath.lib(Vector2.obj) : warning LNK4099: PDB '' was not found with 'libMath.lib(Vector2.obj)' or at ''; linking object as if no debug info
+libMath.lib(Random.obj) : warning LNK4099: PDB '004__Static_Library.pdb' was not found with 'libMath.lib(Random.obj)' or at 'E:\GitHub\assessment-2-maths-library-and-retro-arcade-game-JackKellett02\x64\Release\004__Static_Library.pdb'; linking object as if no debug info
+  018_RayTracer_Refraction.vcxproj -> E:\GitHub\assessment-2-maths-library-and-retro-arcade-game-JackKellett02\x64\Release\018_RayTracer_Refraction.exe
