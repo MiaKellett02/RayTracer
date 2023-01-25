@@ -1,5 +1,10 @@
 #git ignore file for CT4028 Assessment Repo
 
+# Stuff I want to be ignored.
+**CL.read.1.tlog
+**.ipdb
+**.log
+
 # Ignore VS2019 generated folder
 .vs/
 

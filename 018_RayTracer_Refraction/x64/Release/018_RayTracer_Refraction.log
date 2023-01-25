@@ -1,15 +1,21 @@
-﻿  main.cpp
-E:\GitHub\assessment-2-maths-library-and-retro-arcade-game-JackKellett02\018_RayTracer_Refraction\include\Scene.h(23,24): warning C4114: same type qualifier used more than once
-E:\GitHub\assessment-2-maths-library-and-retro-arcade-game-JackKellett02\018_RayTracer_Refraction\source\main.cpp(109,22): warning C4244: 'argument': conversion from 'time_t' to 'const int', possible loss of data
+﻿  Camera.cpp
+  ColourRGB.cpp
+  DirectionalLight.cpp
+  Ellipsoid.cpp
+D:\Github\RayTracer\018_RayTracer_Refraction\source\Ellipsoid.cpp(42,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github\RayTracer\018_RayTracer_Refraction\source\Ellipsoid.cpp(43,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Light.cpp
+  main.cpp
+D:\Github\RayTracer\018_RayTracer_Refraction\include\Scene.h(23,24): warning C4114: same type qualifier used more than once
+D:\Github\RayTracer\018_RayTracer_Refraction\source\main.cpp(109,22): warning C4244: 'argument': conversion from 'time_t' to 'const int', possible loss of data
+  Material.cpp
+  Primitive.cpp
+  Scene.cpp
+D:\Github\RayTracer\018_RayTracer_Refraction\include\Scene.h(23,24): warning C4114: same type qualifier used more than once
+D:\Github\RayTracer\018_RayTracer_Refraction\source\Scene.cpp(54,30): warning C4114: same type qualifier used more than once
   Generating code
-  1 of 401 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    4 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB not found, fall back to full compilation.
+D:\Github\RayTracer\004__Static_Library\source\Matrix4.cpp(545): warning C4715: 'Matrix4::Perspective': not all control paths return a value
+  All 419 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-libMath.lib(Vector4.obj) : warning LNK4099: PDB '004__Static_Library.pdb' was not found with 'libMath.lib(Vector4.obj)' or at 'E:\GitHub\assessment-2-maths-library-and-retro-arcade-game-JackKellett02\x64\Release\004__Static_Library.pdb'; linking object as if no debug info
-libMath.lib(Vector3.obj) : warning LNK4099: PDB '004__Static_Library.pdb' was not found with 'libMath.lib(Vector3.obj)' or at 'E:\GitHub\assessment-2-maths-library-and-retro-arcade-game-JackKellett02\x64\Release\004__Static_Library.pdb'; linking object as if no debug info
-libMath.lib(Matrix4.obj) : warning LNK4099: PDB '004__Static_Library.pdb' was not found with 'libMath.lib(Matrix4.obj)' or at 'E:\GitHub\assessment-2-maths-library-and-retro-arcade-game-JackKellett02\x64\Release\004__Static_Library.pdb'; linking object as if no debug info
-libMath.lib(Ray.obj) : warning LNK4099: PDB '004__Static_Library.pdb' was not found with 'libMath.lib(Ray.obj)' or at 'E:\GitHub\assessment-2-maths-library-and-retro-arcade-game-JackKellett02\x64\Release\004__Static_Library.pdb'; linking object as if no debug info
-libMath.lib(Vector2.obj) : warning LNK4099: PDB '' was not found with 'libMath.lib(Vector2.obj)' or at ''; linking object as if no debug info
-libMath.lib(Random.obj) : warning LNK4099: PDB '004__Static_Library.pdb' was not found with 'libMath.lib(Random.obj)' or at 'E:\GitHub\assessment-2-maths-library-and-retro-arcade-game-JackKellett02\x64\Release\004__Static_Library.pdb'; linking object as if no debug info
-  018_RayTracer_Refraction.vcxproj -> E:\GitHub\assessment-2-maths-library-and-retro-arcade-game-JackKellett02\x64\Release\018_RayTracer_Refraction.exe
+  018_RayTracer_Refraction.vcxproj -> D:\Github\RayTracer\x64\Release\018_RayTracer_Refraction.exe
